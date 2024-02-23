@@ -1,0 +1,16 @@
+.input-text{
+    border: none;
+}
+
+
+
+.android_modal{
+    left: 90%;
+    right: 10%;
+    
+}
+
+
+.modal-backdrop.show {
+    opacity: 0;
+}

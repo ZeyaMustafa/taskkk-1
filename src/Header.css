@@ -1,0 +1,16 @@
+.header{
+    height: 5rem;
+}
+
+.form-control{
+    border-radius: 40px;
+    background-color: #F2F2F2;
+    border-color: none;
+}
+
+
+.create_button{
+    display: block;
+    margin-left: 33%;
+    margin-top: 50px;
+}
